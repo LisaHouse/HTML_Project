@@ -92,7 +92,7 @@ body {
 .container .cartas{
     display: flex;
     flex-wrap: wrap;
-    gap 32px;
+    gap: 32px;
     margin-top: 32px;
 }
 
