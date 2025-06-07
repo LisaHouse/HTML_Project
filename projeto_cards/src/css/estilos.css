@@ -1,0 +1,27 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.cabecalho{
+    background-color: #0e0027;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-bottom: 60px;
+}
+
+.container{
+    background-color: blue;
+    max-width: 1170;
+    margin: 0 auto;
+}
+
+.container .produto{
+    background-color: blueviolet;
+    color: #6528D3;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 32px;
+    line-height: 32px;
+    letter-spacing: 2px;
+}
